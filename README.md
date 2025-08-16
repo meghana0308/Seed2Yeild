@@ -42,7 +42,7 @@ Follow these steps to get a local copy up and running.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Seed2Yield.git
+   git clone https://github.com/meghana0308/Seed2Yield.git
    cd Seed2Yield
 ## Installation
 
